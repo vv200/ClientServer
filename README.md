@@ -1,7 +1,7 @@
 # ClientServer
 Client Server Communication
 
-Java Networking: It is a concept int which two and more computing devices opportunity to communicate with each other.
+Java Networking: It is a concept in which two and more computing devices gets an opportunity to communicate with each other.
 
 Socket Programming: It provides facility to share data between different computing devices.
 
